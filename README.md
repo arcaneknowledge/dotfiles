@@ -1,4 +1,6 @@
 # dotfiles
 My personnal dotfiles
 
-![]: (Le-monde-d-Henri.jpg)
+<img src="Le-monde-d-Henri.jpg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
